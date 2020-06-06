@@ -28,7 +28,7 @@ path_to_save ="../My_project/"
 # Add-On
 sudo apt-get install imagemagick
 
-python OCR.py "PathToYourImg/img.jpeg" "PathToSaveImg/img1.jpeg"  1
+`python OCR.py "PathToYourImg/img.jpeg" "PathToSaveImg/img1.jpeg"  1`
 
-     -- This script will remove all Lines from Image --
+      -: This script will remove all Lines from Image :-
 
