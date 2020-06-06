@@ -21,7 +21,7 @@
 # Run 
 your_pdf_path = "../x.pdf"
 
-path_to_save ="/../My_project/"
+path_to_save ="../My_project/"
 
 python OCR.py  "your_pdf_path" "path_to_save"
 
