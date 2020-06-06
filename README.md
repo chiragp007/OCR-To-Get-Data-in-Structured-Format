@@ -9,12 +9,13 @@
 5. pip install subprocess.run
 6. pip install pandas
 
-# Instruction-:
+# Instruction
   -: This code is specifically for fetching a Text from PDF, All you need to do is to pass path  while executing the Script.
   -: As a Result, You will have Images of PDF file and .TXT file.
 
-# For Example-:
-    -: If your PDF has 5 pages, you will get 5 Images(It will tell you which data I am using in my Script) and 5 .TXT files
+
+# For Example
+    -> If your PDF has 5 pages, you will get 5 Images(It will tell you which data I am using in my Script) and 5 .TXT files.
 
 # Run 
 your_pdf_path = "../x.pdf"
