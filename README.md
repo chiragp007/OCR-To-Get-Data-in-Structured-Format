@@ -11,6 +11,7 @@
 
 # Instruction
   -: This code is specifically for fetching a Text from PDF, All you need to do is to pass path  while executing the Script.
+  
   -: As a Result, You will have Images of PDF file and .TXT file.
 
 
@@ -29,5 +30,5 @@ sudo apt-get install imagemagick
 
 python OCR.py "PathToYourImg/img.jpeg" "PathToSaveImg/img1.jpeg"  1
 
--- This script will remove all Lines from Image --
+     -- This script will remove all Lines from Image --
 
