@@ -10,7 +10,7 @@
 6. pip install pandas
 
 # Instruction
-  -: This code is specifically for fetching a Text from PDF, All you need to do is to pass path of PDF file while executing the Script.
+  -: This code is specifically for fetching a Text from PDF, All you need to do is to pass a path of PDF file while executing the Script.
   
   -: As a Result, You will have Images of PDF file and .TXT file.
 
